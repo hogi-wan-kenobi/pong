@@ -1,0 +1,21 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.container{
+    height: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+
+}
+
+.pointer{
+    cursor: pointer;
+}
